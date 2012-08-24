@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/layout_root"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:padding="10dp"
+              >
+    <TextView android:id="@+id/message_text"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:textColor="#FFF"
+              />
+    <EditText android:id="@+id/reply_text"
+        	  android:layout_width="match_parent"
+        	  android:layout_height="wrap_content"
+        	  android:hint="Type a reply here" />
+    <LinearLayout android:orientation="horizontal"
+        		  android:id="@+id/button_layout"
+        		  android:layout_width="match_parent"
+        		  android:layout_height="wrap_content" >
+        <Button android:id="@+id/send_reply_button"
+            	android:text="Send"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/cancel_button"
+            android:text="Cancel"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</LinearLayout>

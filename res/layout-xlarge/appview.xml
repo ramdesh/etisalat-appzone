@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:weightSum="1" android:background="@drawable/background">
+    <LinearLayout android:layout_width="match_parent" android:id="@+id/linearLayout1" 
+    	android:layout_height="wrap_content" android:layout_weight="0.03" android:gravity="center">
+        <TextView 	android:layout_height="wrap_content" 
+            		android:id="@+id/appname" 
+            		android:layout_weight="0.03" 
+            		android:textAppearance="?android:attr/textAppearanceLarge" 
+            		android:text="@string/app" android:layout_width="match_parent" 
+            		android:textSize="40sp"
+            		android:gravity="center"
+            		style="@style/appzone_font">
+            
+        </TextView>
+    </LinearLayout>
+    <ScrollView android:id="@+id/scrollView1" android:layout_width="match_parent" 
+    	android:layout_height="wrap_content">
+        <LinearLayout android:weightSum="1" android:id="@+id/linearLayout2" 
+        	android:orientation="vertical" android:gravity="center" android:layout_height="wrap_content" android:layout_width="match_parent">
+            <ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" 
+            	android:id="@+id/appimage" android:src="@drawable/yaluchat" 
+            	android:adjustViewBounds="true" android:minHeight="100dp" android:minWidth="100dp"></ImageView>
+            <LinearLayout android:id="@+id/linearLayout3" android:layout_height="wrap_content" 
+            	android:layout_width="match_parent" android:gravity="center">
+                <ImageView android:layout_height="wrap_content" 
+                	android:src="@android:drawable/ic_menu_help" android:layout_width="wrap_content" 
+                	android:id="@+id/help_icon" android:onClick="showHelp"></ImageView>
+                <ImageView android:layout_height="wrap_content" 
+                	android:src="@android:drawable/ic_menu_share" android:layout_width="wrap_content" 
+                	android:id="@+id/message_icon" android:onClick="shareApp"></ImageView>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/appdescription"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/appdesc"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="28sp"
+                style="@style/appzone_font">
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+    
+</LinearLayout>

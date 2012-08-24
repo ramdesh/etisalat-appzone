@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppZone</string>
+    <string name="search">Search</string>
+    <string name="categorylist">App Categories</string>
+    <string name="app">App</string>
+    <string name="appdesc">App Description</string>
+    <string name="choose_category">Choose a category...</string>
+    <string name="help">Help</string>
+    <string name="search_hint">Search for an app</string>
+    <string name="exit">Exit</string>
+</resources>

@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml version="1.0">
+<last_drawable>0x7f020087</last_drawable>
+<app>
+<appname>Luck of the Day</appname>
+<description>You can get your luck of the day as a percentage by this app.
+ Cost : 5.0
+ by Thulasya</description>
+<help>Press the send button</help>
+<appimg>0x7f020047</appimg>
+<fields>LUCK</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Lucky Number Calculator</appname>
+<description>This application gives you the lucky number of your name and lucky number of your birthday.
+ Cost : 5.0
+ by Charitha</description>
+<help>Type your name, date of birth,month of birth and year of birth separated by spaces and press send</help>
+<appimg>0x7f020048</appimg>
+<fields>NC $details</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>How Many Babies</appname>
+<description>This application predicts the number of babies you and your partner will have in the future!! 
+ Cost : 5.0
+ by Gayan</description>
+<help>Type your name and your partner's name separated by a space and press send.
+ </help>
+<appimg>0x7f020039</appimg>
+<fields>BABA $name</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Love Friend</appname>
+<description>This is a cool tool that measures love between you and your dream mate &amp; measures friendship between you and your friend. try Now !!!  
+ Cost : 5.0
+ by Roshan</description>
+<help>Type your name your partner's or friend's name and love/friend seperated by a spaces and press send.
+ Press Help for help.</help>
+<appimg>0x7f020044</appimg>
+<fields>LF $name,LF FIND</fields>
+<button_replacements>Send,Help</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Manamalakama</appname>
+<description>Get your daily 'Manamalakama' percentage with this fun application. 
+ Cost : 5.0
+ by Mithra</description>
+<help>To get quote 'Manamalakama' percentage press Request button</help>
+<appimg>0x7f02004d</appimg>
+<fields>MANA</fields>
+<button_replacements>Request</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Lucky Numbers</appname>
+<description>An application to calculate Life number, Destiny number, Soul number, and Birth number from Date of Birth and Full Name.
+ Cost : 5.0
+ by Priyantha</description>
+<help>Type your date of birth (Eg.1987-12-28) and fullname seperated by spaces and press send</help>
+<appimg>0x7f020049</appimg>
+<fields>MYLUCK $details</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Malsara</appname>
+<description>Users can either receive love quotes from this application in both Sinhala and English Languages or send a love quote to the application so that it will be shared with the other users of this application. 
+ Cost : 5.0
+ by Anuja</description>
+<help>To get quote press Get, to add quote type your quote in the given field and press Add button</help>
+<appimg>0x7f02004c</appimg>
+<fields>MS QOT,MS ADD $quote</fields>
+<button_replacements>Get,Add</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Sinhalen Jokes</appname>
+<description>This is a subscription service which provides a JOKE via a SMS everyday in Sinhala. 
+ Cost : 30.0
+ by S.Mutukuda</description>
+<help>To register press Register button, to unregister Press Unregister button</help>
+<appimg>0x7f020069</appimg>
+<fields>REG JOKE,UNREG JOKE</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Saththara</appname>
+<description>This is the mobile version of well known Saththara Gurunnanse of Facebook.Through this app users can ask saththara from Saththara Gurunnanse and get funny predictions from him. 
+ Cost : 5.0
+ by Sachiths</description>
+<help>You can ask Saththara by entering your name in the given field and pressing the send button.</help>
+<appimg>0x7f020064</appimg>
+<fields>SAT $name</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Sastare</appname>
+<description>This application gives you the satstare for the day. 
+ Cost : 5.0
+ by Mithra</description>
+<help>To know the Dawase Sastare press Request button</help>
+<appimg>0x7f020063</appimg>
+<fields>SAS</fields>
+<button_replacements>Request</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Name of your future partner</appname>
+<description>Do you want to know the name of your future partner?
+ Cost : 5.0
+ by Madura</description>
+<help>Type BOY/GIRL and your birth day seperated by space and press send button</help>
+<appimg>0x7f020055</appimg>
+<fields>PART $details</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Best Firend Calculator</appname>
+<description>This application calculates friendship percentage between two friends.
+Cost : 5.0
+ by Charitha</description>
+<help>To get the friendship percentage type the two names in the text field seperating them by a space  and press the send button.
+</help>
+<appimg>0x7f020008</appimg>
+<fields>BFC $names</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Birthday and Character</appname>
+<description>Find out what your birthday tells about your character and the gem-stone associated with your month of birth.
+ Cost : 5.0
+ by Mithra</description>
+<help>Type month of birth and date of birth seperated by a space and press send.
+ </help>
+<appimg>0x7f02000b</appimg>
+<fields>BD $dateofbirth</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Chat Rooms</appname>
+<description>ChatRooms aims to provide a chat forum for Sri lankans from every part of Sri Lanka to chat,share ideas and make new friendship through SMS.
+ Cost : 30.0
+ by Tharakaw</description>
+<help>To register press the register button.To chat type the chat message in the text field and press send.For help press help button.
+ </help>
+<appimg>0x7f020011</appimg>
+<fields>REG CR,CR $msg,CR HELP</fields>
+<button_replacements>Register,Send,Help</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Chooti Malligen Ahanna</appname>
+<description>This is an SMS based Fun Application. To use this Application, Users can compose SMS message with any kind of problem in Sinhala or English.
+ Cost : 5.0
+ by Harshs</description>
+<help>To register press the register button.To chat type the chat message in the text field and press send.For help press help button.
+ </help>
+<appimg>0x7f020012</appimg>
+<fields>MALLI $problem,MALLI HELP</fields>
+<button_replacements>Send,Help</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Daily Jokes</appname>
+<description>Subscribe to Daily jokes and have your day filled with laughter! Rs. 1 per SMS.
+ Cost : 5.0
+ by Etisalat</description>
+<help>To register press the register button.To deregister press deregister button.
+ </help>
+<appimg>0x7f02001c</appimg>
+<fields>REG JOKE,STOP JOKE</fields>
+<button_replacements>Register,Deregister</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Dawase Kella</appname>
+<description>To know the name of your today's dream Girl Just press the find button.
+ Cost : 5.0
+ by Shanukap</description>
+<help>Press the find button to find your dream girl.
+ </help>
+<appimg>0x7f02001e</appimg>
+<fields>KELLA</fields>
+<button_replacements>Find</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Fabulous Jokes</appname>
+<description>This is a subscription service which provides a JOKE via a SMS everyday in English.
+ Cost : 30.0
+ by S.Muthukuda</description>
+<help>Press Register button to register and Unregister button to unregister.
+ </help>
+<appimg>0x7f020028</appimg>
+<fields>REG EJOKE,UNREG EJOKE</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Free SMS</appname>
+<description>This application sends you messages relevant to the following categories: New Year, Awurudu, Love, Birthday, Valentine, Friend (or Friendship), Vesak, Poson, Xmas and Fun. 
+ Cost : 5.0
+ by Bathiya</description>
+<help>Type the category in the given field and press send button.
+ </help>
+<appimg>0x7f02002a</appimg>
+<fields>FREE $category</fields>
+<button_replacements>Send</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Twitter2Sms</appname>
+<description>This application can help to stay in touch with your favourite Twitter friends.
+Cost : 30.0 
+by Libor</description>
+<help>To register, hit the Register button.
+ For help, press the Help button.</help>
+<appimg>0x7f02007d</appimg>
+<fields>REG T2S,T2S HELP</fields>
+<button_replacements>Register,Help</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Yalu Chat</appname>
+<description>Yalu is introducing a revolutionised way of chatting with finding a partner for you and letting you to chat with him/her instantly. Cost : 30.0
+ by Arunoda Susiripala</description>
+<help>To register with Yalu press the Register button. To start chat type in the text field and press the Send Message button. Need help? Press the Help button. 
+ </help>
+<appimg>0x7f020087</appimg>
+<fields>REG YL,YL $msg,YL HELP</fields>
+<button_replacements>Register,Send Message,Help</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Fun Quotes</appname>
+<description>This application sends 'Short and Funny' quotes for each user request.
+ Cost : 5.0
+ by Channa</description>
+<help>Press the Request button to get fun quotes.
+ </help>
+<appimg>0x7f02002b</appimg>
+<fields>FUN</fields>
+<button_replacements>Request</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Technology News</appname>
+<description>Stay up to date with the Latest Technology News across the world. This application gives technology news for hardware, software, gadgets, mobile phones, etc. 
+Cost : 30.0
+by Haneez</description>
+<help>To register press the Register button. To deregister press the Unregister button.</help>
+<appimg>0x7f020077</appimg>
+<fields>REG TECH,UNREG TECH</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Word Puzzle</appname>
+<description>Word Puzzle is a SMS based word game with lot of features. Users can get marks by identifying the puzzled words with the help of the given meaning for each word. This game gives you the option to chose the game mode (hard or easy). Hard mode gives more marks than the easy mode and the user is provided with 3 trials to guess a word. If the user is unable to identify the word with in the three trials they will lose marks. Levels will be updated according to the marks scored. From level to level the the game will be more difficult and indeed exciting! Users can check their ranks among the other players.
+Cost : 5.0
+by tharindud</description>
+<help>To register hit the Register button.
+To dergister hit the Unregister button.
+To join the game press the Join button.
+To start the game press the Start button.
+To guess a puzzled word type the guessed word in the text field and press the Send Word button.
+To check the rank press the View Rank button.
+To Change the mode press the Change Mode button.
+To get help type press the Help button.
+To change the nick name press the Change Nickname button.
+</help>
+<appimg>0x7f020085</appimg>
+<fields>REG PZL,UNREG PZL,PZL JOIN,PZL START,PZL WORD $word,PZL RANK,PZL MODE,PZL HELP,PZL CHNG</fields>
+<button_replacements>Register,Unregister,Join,Start,Send Word,View Rank,Change Mode,Help,Change Nickname</button_replacements>
+<subscription>true</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Group SMS</appname>
+<description>This is a SMS based group messaging application. Users can Create groups, join groups and can send SMS's to the whole group .This is a registration base application.
+ Cost : 30.0
+ by Tharaka</description>
+<help>To register press Register button.
+ To create group press create button.
+To join a group type the group name and press add.
+To send sms type group name and message and press send.
+To deregister press unregister button.
+For help press help button</help>
+<appimg>0x7f020032</appimg>
+<fields>REG GSMS,GSMS CREATE,GSMS ADD,GSMS SMS2 $msg,UNREG GSMS,GSMS HELP</fields>
+<button_replacements>Register,Create,Add,Send,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>School</appname>
+<description>You can follow the updates of your school matches and your favorite sports tournaments via SMS alerts. This application can give all types of information.
+Cost : 30.0
+by CheerYourTeam.com</description>
+<help>1. Particular school's sports updates To subscribe type the school name in the textfield and press the Register School button. To unsubscribe type the school name and pressthe Unregister School button.
+2.Sports updates of a particular sport regardless of schools: To subscribe type the name of the sport and press the Register Sport button.To unsubscribe type the sport name and press Unregister Sport.
+3. All sports updates of all the schools To subscribe press Register School. To unsubscribe press Unregister School.
+</help>
+<appimg>0x7f020065</appimg>
+<fields>REG SCHOOL $school,REG SPORT $sport,UNREG SCHOOL $school,UNREG SPORT $sport</fields>
+<button_replacements>Register School,Register Sport,Unregister School,Unregister Sport</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Funky Molee</appname>
+<description>This is a funny application that you can use in order to find your brain power.By using this you can simply find out how intelligent you are?
+ Cost : 5.0
+ by Milindag</description>
+<help>Type your name in the given field and press send.
+ </help>
+<appimg>0x7f02002d</appimg>
+<fields>FM $name</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Cinema</appname>
+<description>SMS based application to retrieve instant info from the cinema world.  Cost : 5.0 
+by Haneez</description>
+<help>To use type the city name in the text field and press the Send button, press the Help button for help.</help>
+<appimg>0x7f020013</appimg>
+<fields>CINEMA $city,CINEMA HELP</fields>
+<button_replacements>Send,Help</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Love Calculator</appname>
+<description>Match your real love.Will send a reply with the matching percentage, Cost : 5.0
+by hSenidMobile</description>
+<help>To use this app type the two names in the text field seperating them by a space and press the Send button
+</help>
+<appimg>0x7f020043</appimg>
+<fields>LC $names</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Coming Soon</appname>
+<description>New Movie and music releases around the world can be instantly informed via sms.
+Cost : 30.0
+by Chinthaka</description>
+<help>To register, press the Register button.
+To unregister, press the Unregister button.</help>
+<appimg>0x7f020015</appimg>
+<fields>REG CS,UNREG CS</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Entertainment</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Biz News</appname>
+<description>This application gives the latest Business News alerts.
+ Cost : 30.0
+by Haneez</description>
+<help>To register with the service press the Register button. To deregister press the Unregister button.</help>
+<appimg>0x7f02000c</appimg>
+<fields>REG BIZ,UNREG BIZ</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Business</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>CrickAtMobile</appname>
+<description>CrickAt Mobile for cricket lovers.
+ Cost : 30.0
+by Shayanthan</description>
+<help>Press Register to registerand Unregister to unregister.
+</help>
+<appimg>0x7f020016</appimg>
+<fields>REG CRICK,UNREG CRICK</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Daily Hadees</appname>
+<description>Receive a Hadees daily from most famous books (Ex.Buhari, Muslim etc). 
+Cost : 30.0
+by Suhail Jamaldeen</description>
+<help>Press Register to subscribe. To deregister type press the Unregister button.</help>
+<appimg>0x7f020019</appimg>
+<fields>REG HADEES,UNREG HADEES</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Saru Kalaya</appname>
+<description>Application will send fertile period when the user send the last menstrual date with the menstrual period.
+ Cost : 5.0
+by kumudul</description>
+<help>Type &lt;menstrual date(YYYY/MM/DD)&gt;&lt;menstrual period&gt; and press the Send Details button.
+For help press the Help button.
+E.g. If your menstrual date is 20011/01/02 and menstrual period is 31 then type 2011/01/02&lt;space&gt;31.
+</help>
+<appimg>0x7f020062</appimg>
+<fields>SARU $date,SARU HELP</fields>
+<button_replacements>Send Details,Help</button_replacements>
+<subscription>false</subscription>
+<category>Health</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Play KATA</appname>
+<description>This is a subscription based game application which can be played through SMS. To Register with the Game press the REG KATA Button.
+Cost : 30.0
+by  madura</description>
+<help>To join with a game type your nickname and press Join
+For help press the Help button.
+To play the game type your choice and press the Send button. 
+</help>
+<appimg>0x7f020058</appimg>
+<fields>REG KATA,KATA JOIN $nickname,KATA $game,KATA HELP</fields>
+<button_replacements>Register,Join,Send,Help</button_replacements>
+<subscription>true</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>SMS Soccer</appname>
+<description>This is a penalty shoot out game, where you can either choose to strike or defend the goal.
+Cost : 5.0
+by hSenidMobile</description>
+<help>To register press Register.  To get help message press Help
+</help>
+<appimg>0x7f02006f</appimg>
+<fields>SC PLAY,SC HELP</fields>
+<button_replacements>Register,Help</button_replacements>
+<subscription>true</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>VOG SMS</appname>
+<description>VOG SMS is a SMS alert system. Pregnant mothers can register to the system by sending SMS specifying the LRMP (Last Regular Menstrual Period) date. The system automatically calculate the pregnancy period and sends alerts every day morning which correspond to that time period. 
+Cost : 30.0 
+by kumudul</description>
+<help>To register type LRMP date as yyyy-mm-dd and press Register Ex: 2010-12-21 
+For help press Help
+To deregister press Unregister
+ LRMP : Last Regular Menstrual Period. For more details www.vog.lk 
+</help>
+<appimg>0x7f020081</appimg>
+<fields>REG VOG $lrmp,UNREG VOG,VOG HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Health</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Tuck Tick Took</appname>
+<description>This is a Playable Tic-Tac-Toe Game via SMS. Two players can play the game in normal way.Connecting (known) two players to play Tic-Tac-Toe game in Live through short messages. Many pair of players can play Tic-Tac-Toe in one Instance.
+ Cost : 30.0
+by HarshaDura</description>
+<help>To Register press Register
+For help press Help
+To deregister press Unregister.
+For more Details Visit :http://www.ticapp.tk 
+</help>
+<appimg>0x7f02007c</appimg>
+<fields>REG TICK,UNREG TICK,TICK HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Porondam</appname>
+<description>Match horoscope according to traditional Visi Porondam.We send the number of good, medium and bad porondam.Cost : 5.0
+ by Chandana</description>
+<help>Type girls birth information first and boys birth information second,which including birthday birth time and location, and press the Send button.
+</help>
+<appimg>0x7f020059</appimg>
+<fields>PO $details</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Bhasha English2Sinhala</appname>
+<description>Bhasha English2Sinhala is a SMS based English to Sinhala Dictionary.You can simply send any English word(s) to this dictionary &amp; receive Sinhala translation(s) as a reply.
+Cost : 5.0
+by Bhasha</description>
+<help>To use, type any English word in the text area and press the Send Word button.
+</help>
+<appimg>0x7f020009</appimg>
+<fields>ES $word</fields>
+<button_replacements>Send Word</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Daily Mirror</appname>
+<description>Subscribe to the Daily Mirror news service from the reliable publication Wijaya Newspapers. Rs.30 per month, 1st 15 days FREE.
+ Cost : 30.0
+by Etisalat</description>
+<help>To subscribe press the Register button; To deregister press the Unregister button.
+</help>
+<appimg>0x7f02001d</appimg>
+<fields>DM,STOP DM</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>English Premier League</appname>
+<description>Subscribe to daily alerts and updates of the English Premier League matches. Rs.30 per month.
+Cost : 1.0
+by Etisalat</description>
+<help>Press the Register button to register and the Unregister button to unregister.
+</help>
+<appimg>0x7f020025</appimg>
+<fields>REG EPL,STOP EPL</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_44</link>
+</app>
+<app>
+<appname>SLCricket</appname>
+<description>Recieve cricket updates and alerts in sinhala language for all matches played by Sri Lanka. Rs 5 per match.
+Cost : 5.0
+by Etisalat</description>
+<help>Press the Register button to register and the Unregister button to unregister.
+</help>
+<appimg>0x7f020025</appimg>
+<fields>CRIKSIN,STOP CRIKSIN</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_31</link>
+</app>
+<app>
+<appname>SLCricket</appname>
+<description>Receive cricket updates and alerts for all matches played by Sri Lanka. Rs 5 per match.
+Cost : 5.0
+by Etisalat</description>
+<help>Press the Register button to register and the Unregister button to unregister.
+</help>
+<appimg>0x7f020025</appimg>
+<fields>CRICKSRI,STOP CRICKSRI</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_30</link>
+</app>
+<app>
+<appname>ESPN Rugby Alerts</appname>
+<description>Subscribe to daily alerts and updates of the ESPN Rugby matches.
+Cost : 30.0
+by Etisalat</description>
+<help>Press the Register button to register and the Unregister button to unregister.
+</help>
+<appimg>0x7f020024</appimg>
+<fields>REG SCRUM,STOP SCRUM</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_43</link>
+</app>
+<app>
+<appname>School &amp; Club Rugby</appname>
+<description>Subscribe to School &amp; Club rugby alerts. Rs.30 per month during the rugby season. 
+Cost : 30.0
+by Etisalat</description>
+<help>Press the Register button to register and the Unregister button to unregister.
+</help>
+<appimg>0x7f020066</appimg>
+<fields>REG RUGBY,STOP RUGBY</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_42</link>
+</app>
+<app>
+<appname>Cricket Live Scores</appname>
+<description>Get the latest international cricket updates with this application.
+Cost : 5.0
+by Charitha</description>
+<help>Press the Get Update button to get the latestcricket updates.
+</help>
+<appimg>0x7f020017</appimg>
+<fields>CRI</fields>
+<button_replacements>Get Update</button_replacements>
+<subscription>false</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_134</link>
+</app>
+<app>
+<appname>Cricnews</appname>
+<description>cricnews is a subscription based application.You will recieve criket updates on your mobile."Keep In Touch with Gentlemen's Game"
+Cost : 30.0
+by Roshan</description>
+<help>Press Register to registerand Unregister to unregister. Press Help for help.
+</help>
+<appimg>0x7f020018</appimg>
+<fields>REG CRICNEWS,UNREG CRICNEWS,CRICNEWS HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_255</link>
+</app>
+<app>
+<appname>Stock</appname>
+<description>Application to receive stock exchange details.
+Cost : 30.0
+by Jason Jebanesan</description>
+<help>Register to the Application : press RegisterUnregister from the Application : press Unregister.Press Help for help.</help>
+<appimg>0x7f020074</appimg>
+<fields>REG ST,UNREG ST,ST HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Business</category>
+<link>http://apps.appzone.lk/#app_266</link>
+</app>
+<app>
+<appname>My Expense Tracker</appname>
+<description>This application will help to track the users expenses and produce them detailed reports.
+Cost : 30.0
+by Amila Silva</description>
+<help>Press Register to register and Unregisterto unregister. Type an amount and hit Add to add an expense. Press Total to get total expenses of the current month. Press Types to list down the available Expense Types. Type &lt;date&gt;&lt;space&gt;&lt;email address&gt; and press Report to post the expense report of the given month. Press About to get the detail of the app developer. Press Help to get and quick help.</help>
+<appimg>0x7f020054</appimg>
+<fields>REG ME,UNREG ME,ME ADD $details,ME TOTAL,ME TYPES,ME RPT $details,ME ABT,ME HELP</fields>
+<button_replacements>Register,Unregister,Add,Total,Types,Report,About,Help</button_replacements>
+<subscription>true</subscription>
+<category>Business</category>
+<link>http://apps.appzone.lk/#app_277</link>
+</app>
+<app>
+<appname>Sale</appname>
+<description>Sale is the smartest way to meet buyers and sellers.It allows sellers to advertise their products instantly.Sellers can create their own groups.Buyers can joined to groups of their favourite sellers.Then they get to know whenever the seller advertise products via Sale.Same time sellers can advertise their products to all the Sale subscribers.
+Cost : 30.0
+by Manuja Jayamanne</description>
+<help>Register to the Application : press RegisterUnregister from the Application : press Unregister.Unregister from common group : Press Unregister Common.Re-register to common group : Press Register Common.</help>
+<appimg>0x7f020061</appimg>
+<fields>REG SALE,UNREG SALE,SALE REG COM,SALE UNREG COM</fields>
+<button_replacements>Register,Unregister,Register Common,Unregister Common</button_replacements>
+<subscription>true</subscription>
+<category>Business</category>
+<link>http://apps.appzone.lk/#app_266</link>
+</app>
+<app>
+<appname>mMart</appname>
+<description>mMart is your SMS classifieds to buy &amp; sell your mobile phones!.It's a revolutionary method for a seller to advertise and for a buyer to query phones either based on price or model.Brand name,model and contact number must be single words.eg: sonyericsson.
+Cost : 5.0
+by sureshs</description>
+<help>To Sell type &lt;Phone-brand&gt;&lt;space&gt;&lt;Phone model&gt;&lt;space&gt;&lt;Price&gt;&lt;space&gt;&lt;Contact-no&gt; and press Sell. To Search by model type &lt;Brand&gt;&lt;space&gt;&lt;Model&gt; and press Search ModelTo Search by price type &lt;Brand&gt;&lt;space&gt;&lt;Price&gt; and press Search PriceTo Cancel a selling type the reference id and press Cancel.</help>
+<appimg>0x7f020051</appimg>
+<fields>SELL $details,MT BUYM $details,MT BUYP $details,MT CANCEL $refid</fields>
+<button_replacements>Sell,Search Model,Search Price,Cancel</button_replacements>
+<subscription>false</subscription>
+<category>Business</category>
+<link>http://apps.appzone.lk/#app_227</link>
+</app>
+<app>
+<appname>Auction</appname>
+<description>Within a period of time users can bid for an item using sms. The lowest and the unique bid at the end of the auction time will win the current prize. Prizes will be announced from time to time.
+Cost : 5.0
+by Ashen Gomez</description>
+<help>To place a bid type your bid and hit the Bid button. Press Helpfor help.</help>
+<appimg>0x7f020003</appimg>
+<fields>BID $bid,BID HELP</fields>
+<button_replacements>Bid,Help</button_replacements>
+<subscription>false</subscription>
+<category>Business</category>
+<link>http://apps.appzone.lk/#app_278</link>
+</app>
+<app>
+<appname>BMI Calculator</appname>
+<description>Attention! Obesity can kill! Being overweight can lead to Diabetes, Hypertension &amp; Kidney Failure. Don't be a statistic! Use our BMI Calculator &amp; Stay Healthy!
+Cost : 5.0
+by Lanka Doctor</description>
+<help>Type &lt;weight in KG&gt;&lt;space&gt;&lt;height in cm&gt;&lt;space&gt;&lt;sex 'M' if you are male or 'F' if you are female&gt; and press Calculate to calculate your BMI. Press Help for help.</help>
+<appimg>0x7f02000d</appimg>
+<fields>DOCTOR $details,DOCTOR BMI</fields>
+<button_replacements>Calculate,Help</button_replacements>
+<subscription>false</subscription>
+<category>Health</category>
+<link>http://apps.appzone.lk/#app_101</link>
+</app>
+<app>
+<appname>Hospital Guide</appname>
+<description>This application provides the contact details and addresses of all the private hospitals and nursing homes which are registered under Association of Private Hospitals and Nursing homes.
+Cost : 5.0
+by Roshan</description>
+<help>Type the name of the hospital and press Get Detailsto get details. Press Help for help.</help>
+<appimg>0x7f02005c</appimg>
+<fields>PH $hospital,PH HELP</fields>
+<button_replacements>Get Details,Help</button_replacements>
+<subscription>false</subscription>
+<category>Health</category>
+<link>http://apps.appzone.lk/#app_232</link>
+</app>
+<app>
+<appname>Sexual Health Quiz</appname>
+<description>Sexual Health Quiz is a mobile health education game.
+Cost : 30.0
+by Roshan</description>
+<help>Press Register to register. Press Join to join with thequiz.</help>
+<appimg>0x7f020068</appimg>
+<fields>REG SHQ,SHQ JOIN</fields>
+<button_replacements>Register,Join</button_replacements>
+<subscription>true</subscription>
+<category>Health</category>
+<link>http://apps.appzone.lk/#app_244</link>
+</app>
+<app>
+<appname>Lottery Results</appname>
+<description>Receive results of all types of lotteries daily. Enjoy the first week for free, after that only Rs.7 per week.
+Cost : 7.0
+by Etisalat</description>
+<help>Press Register to subscribe, and Stop to deregister.</help>
+<appimg>0x7f020042</appimg>
+<fields>REG LOT,STOP LOT</fields>
+<button_replacements>Register,Stop</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_37</link>
+</app>
+<app>
+<appname>Colombo Guide</appname>
+<description>Using this application you can retrieve details of the most important places located around Colombo.
+Cost : 5.0
+by Roshan</description>
+<help>1) Type location name and press Get Details if you know the location. 2) Type the category and press Get Details to see the available categories of locations 3) Type category&lt;space&gt;LOC to see all the locations available for a certain category. 4) Press Help for help.</help>
+<appimg>0x7f020014</appimg>
+<fields>CG $details,CG HELP</fields>
+<button_replacements>Get Details,Help</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_68</link>
+</app>
+<app>
+<appname>Time Reader</appname>
+<description>Get the time difference between the GMT and the city. 
+Cost : 5.0
+by hSenidMobile</description>
+<help>Type the name of the city and press Get Difference to check the differencebetween the GMT and the city.</help>
+<appimg>0x7f020079</appimg>
+<fields>TIME $city</fields>
+<button_replacements>Get Difference</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_23</link>
+</app>
+<app>
+<appname>Prayer Times</appname>
+<description>This is an useful application for Muslim community, which will send prayer times on demand. 
+Cost : 5.0
+by Haneez</description>
+<help>Press the Get Times button.</help>
+<appimg>0x7f02005a</appimg>
+<fields>AZAN</fields>
+<button_replacements>Get Times</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_132</link>
+</app>
+<app>
+<appname>Exchange Rates</appname>
+<description>An application to retrieve Exchange rates. To get the LKR value type MONEY&lt;space&gt;&lt;amount&gt;&lt;space&gt;&lt;currency&gt; or To get other currency value type MONEY&lt;space&gt;&lt;amount&gt;&lt;space&gt;&lt;currency1&gt;&lt;space&gt;TO&lt;space&gt;&lt;currency2&gt; and send to 4499. For help type MONEY&lt;space&gt;HELP and send to 4499. 
+Cost : 5.0
+by Haneez</description>
+<help>To get LKR value type the amount&lt;space&gt;currency and press LKR.To get other currencies, type &lt;amount&gt;&lt;space&gt;&lt;currency1&gt;&lt;space&gt;TO&lt;space&gt;&lt;currency2&gt; and hitOther. For help, press the Help button.</help>
+<appimg>0x7f020026</appimg>
+<fields>MONEY $details,MONEY $details,MONEY HELP</fields>
+<button_replacements>LKR,Other,Help</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_130</link>
+</app>
+<app>
+<appname>Fun Facts</appname>
+<description>This application sends fun facts everyday to its users. Cost : 30.0
+ by Haneez</description>
+<help>To register with this service press the Register button. To deregister press the Unregister button.
+</help>
+<appimg>0x7f02002c</appimg>
+<fields>REG FACTS,UNREG FACTS</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Holidays</appname>
+<description>This application gives the holidays related to that month.
+Cost : 5.0
+by Sudeera</description>
+<help>Type the month and press the Get Holidays button.</help>
+<appimg>0x7f020036</appimg>
+<fields>HD $month</fields>
+<button_replacements>Get Holidays</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_187</link>
+</app>
+<app>
+<appname>Wikipedia Definitions</appname>
+<description>Now for the first time in Sri Lanka, you can search You can search Wikipedia unlimited number of times for just Rs.30 per month.
+Cost : 30.0
+by Bhasha</description>
+<help>Press Register to register. Then type your search term and hit Search to search Wikipedia.</help>
+<appimg>0x7f020083</appimg>
+<fields>REG WIKI,REG $term</fields>
+<button_replacements>Register,Search</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_275</link>
+</app>
+<app>
+<appname>Daily Islam</appname>
+<description>Saheeh Hadees.Quotes from the Quran.Islamic Thoughts.Occasional Duas. Reminder for important days in Islam.
+Cost : 30.0
+by Ijas Ahmed</description>
+<help>Press Register to register. Press Unregister to unregister.Press Help for help.
+</help>
+<appimg>0x7f02001b</appimg>
+<fields>REG ISLAM,UNREG ISLAM,ISLAM HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_283</link>
+</app>
+<app>
+<appname>BusR</appname>
+<description>Get instruction on which bus to take when start and destination are given or get the bus path when the bus route number is given.
+ Cost : 5.0
+by Jason Jebanesa</description>
+<help>Type the place you want to take the bus from followed by a spaceand followed by where you want to go and hit Get Details. Or type the route number and hit Get Details.</help>
+<appimg>0x7f020010</appimg>
+<fields>BUSR $data</fields>
+<button_replacements>Get Details</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_27</link>
+</app>
+<app>
+<appname>Dog Names</appname>
+<description>This simple app gives you access to hundreds of unusual names to suit your male/female puppies. You can also view a description given to each name!
+Cost : 5.0
+by gimasha</description>
+<help>Press Male to get male names, Female to get female names.Press More Male or More Female to get more names. Type a particular nameand press the Description button to get a description on that name.
+</help>
+<appimg>0x7f020021</appimg>
+<fields>DOG M,DOG F,DOG M MORE,DOG F MORE,DOG TAG $name</fields>
+<button_replacements>Male,Female,More Male,More Female,Description</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_231</link>
+</app>
+<app>
+<appname>AppZoneSweep</appname>
+<description>This application gives the results of Sri Lankan Sweeps (Lottery).
+Cost : 5.0
+by priyantha</description>
+<help>Type the draw number and press Get Result to get the latestresult to a given draw number. Type the draw number followed by a spaceand the sweep number to give the result of a particular sweep and draw number. Type the name of a sweep and press Get Result to get the latest result of that sweep.</help>
+<appimg>0x7f020002</appimg>
+<fields>SWEEP $data</fields>
+<button_replacements>Get Result</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_112</link>
+</app>
+<app>
+<appname>Bible Verse for the day</appname>
+<description>Verse for the day is an application which sends meaningful and inspirational Bible verse to all who have registered. 
+Cost : 30.0
+by Jason Jebanesan</description>
+<help>Press Register to register. Press Unregister to unregister.
+</help>
+<appimg>0x7f02000a</appimg>
+<fields>REG VERSE,UNREG VERSE</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_167</link>
+</app>
+<app>
+<appname>AppZone PostCode</appname>
+<description>This application gives the Postal Code. District and Province of any given City. 
+Cost : 5.0
+by priyantha</description>
+<help>Type the name of the Hospital in the text field and press the button to send the message.</help>
+<appimg>0x7f020001</appimg>
+<fields>POSTCODE $city</fields>
+<button_replacements>Request Post Code</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_185</link>
+</app>
+<app>
+<appname>Sai Baba Sayings</appname>
+<description>Application to receive a daily verse from Bhagavan Sri Sathya Sai Baba.
+Cost : 30.0
+by priyantha</description>
+<help>Press Register to register. Press Unregister to unregister.
+</help>
+<appimg>0x7f020060</appimg>
+<fields>REG SAI,UNREG SAI</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_245</link>
+</app>
+<app>
+<appname>Dhamma</appname>
+<description>Application to receive a daily verse from The Dhammapada as per the translation of Acharya Buddharakkitha. All proceeds received by the developer for this application will be given out for charity.
+Cost : 30.0
+by priyantha</description>
+<help>Press Register to register. Press Unregister to unregister.
+</help>
+<appimg>0x7f02001f</appimg>
+<fields>REG DHAMMA,UNREG DHAMMA</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_211</link>
+</app>
+<app>
+<appname>Mithra</appname>
+<description>In MITHRA app user can chat with single friend and group.
+Cost : 30.0
+by mithra</description>
+<help>Press Register to register. Press Help for help.
+</help>
+<appimg>0x7f020050</appimg>
+<fields>REG MI,MI HELP</fields>
+<button_replacements>Register,Help</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_241</link>
+</app>
+<app>
+<appname>IntlCrick</appname>
+<description>Subscribe to cricket updates and alerts on all International matches played other than Srilanka. 30 cents per receiving SMS.
+Cost : 0.30
+by Etisalat</description>
+<help>Press the Register button to register and the Unregister button to unregister.
+</help>
+<appimg>0x7f02003b</appimg>
+<fields>CRICKALL,STOP CRICKALL</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Sports</category>
+<link>http://apps.appzone.lk/#app_32</link>
+</app>
+<app>
+<appname>Lyrics2Sms</appname>
+<description>This application can help you to get info about artists, their albums and songs including lyrics.
+Cost : 30.0
+by Libor</description>
+<help>Press Register to register. Press Help for help.
+</help>
+<appimg>0x7f02004a</appimg>
+<fields>REG L2S,L2S HELP</fields>
+<button_replacements>Register,Help</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_250</link>
+</app>
+<app>
+<appname>Greeting</appname>
+<description>This application gives you greeting messages such as Love, Friendship, Good morning, Good night and wishes for special occasions such as New year, X’ mas,and Birthdays. 
+Cost 5.0
+by mithra</description>
+<help>Press the relevant button to get greetings related to it.
+</help>
+<appimg>0x7f020030</appimg>
+<fields>GR LV,GR FS,GR GN,GR GM,GR CH,GR NY,GR BD</fields>
+<button_replacements>Love,Friendship,Goodnight,Good Morning,Christmas,New Year,Birthday</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_114</link>
+</app>
+<app>
+<appname>Sms2Email</appname>
+<description>Send quick email message using SMS messages
+Cost : 5.0
+by hSenidMobile</description>
+<help>To send an email type &lt;Email Address&gt;&lt;space&gt;&lt;message&gt; and press Send.
+</help>
+<appimg>0x7f02006a</appimg>
+<fields>S2E $details</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_29</link>
+</app>
+<app>
+<appname>Rahu Kalaya</appname>
+<description>Get the Rahukalaya for the day.
+Cost : 5.0
+by hSenidMobile</description>
+<help>Press the Get Rahu Kalaya button to get the Rahu Kalaya for today.</help>
+<appimg>0x7f02005d</appimg>
+<fields>RAHU</fields>
+<button_replacements>Get Rahu Kalaya</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_24</link>
+</app>
+<app>
+<appname>Live Weather SMS</appname>
+<description>This application provides live weather data for below cities.Ambalangoda, Anuradhapura, Avissawella, Badulla, Balangoda, Battaramulla,Batticaloa,Beruwala,Chilaw,Colombo,Dehiwala,Elpitiya,Galle, Gampaha,Gampola,Ja Ela,Jaffna,Kalmunai,Kalutara,Kandy,Kankesanturai, Kattankudi,Kegalla,Kotte,Kurunegala,Mannar,Matale,Matara,Matugama, Moratuwa,Nawalapitiya,Negombo,Nuwara Eliya,Panadura,Point Pedro, Polonnaruwa,Puttalam,Ragama,Ratnapura,Sri Jayavardhanapura,Trincomalee, Vavuniya,Wadduwa,Wattala,Weligama.
+Cost : 5.0
+by Charitha</description>
+<help>Type the city name and press the Get Weather button.</help>
+<appimg>0x7f020041</appimg>
+<fields>LWR $city</fields>
+<button_replacements>Get Weather</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_146</link>
+</app>
+<app>
+<appname>Navigator</appname>
+<description>This application supplies driving instructions from origin to a destination via SMS.
+Cost : 5.0
+by asankas</description>
+<help>Type the place you want to take the start from followed by a spaceand followed by where you want to go and hit Get Details. To get the next set of instructions, hit the Next button.</help>
+<appimg>0x7f020056</appimg>
+<fields>NAVIGATE $data,NAVIGATE NEXT</fields>
+<button_replacements>Get Directions,Next</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_195</link>
+</app>
+<app>
+<appname>Direction of Maru</appname>
+<description>This application sends 'Direction of the Maru' for current day or specified day. 
+Cost : 5.0
+by Channa</description>
+<help>Press Today to get directions for today or type the date in the text field and press Other Day to get directions for a different day. To get the next set of instructions, hit the Next button.</help>
+<appimg>0x7f020020</appimg>
+<fields>MARU,MARU $date</fields>
+<button_replacements>Today,Other Day</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_121</link>
+</app>
+<app>
+<appname>Stock Market Summary</appname>
+<description>This application gives stock trade summery via SMS. Registered user will receive daily stock trade summery.
+Cost : 30.0
+by Asanka Ishara</description>
+<help>To register, press Register and press Unregister to deregister.To get daily summary type &lt;company code 1&gt;,&lt;company code 2&gt; and hit Summary. To know trade details type &lt;company code&gt; or &lt;company code1&gt;&lt;space&gt;&lt;company code2&gt; and pressTrade Details.</help>
+<appimg>0x7f020075</appimg>
+<fields>REG TRADE,UNREG TRADE,TRADE SUMMARY $codes,TRADE $codes</fields>
+<button_replacements>Register,Unregister,Summary,Trade Details</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_208</link>
+</app>
+<app>
+<appname>Stock Trades</appname>
+<description>This is a SMS based application for the share holders in CSE. User can receive the current trading details (current trade price, today highest price, today lowest price) of the companies by sending the company code(s) of one or two companies in one message. This application will enable the share holders to be on alert on the share prices of the relevant companies via the mobile phone.
+Cost : 5.0
+by Asanka Ishara</description>
+<help>Type company code or &lt;company code 1&gt;&lt;space&gt;&lt;company code 2&gt; and hitGet Details. Company code should be in standard format(Eg: semb.N0000).</help>
+<appimg>0x7f020076</appimg>
+<fields>STOCK $codes</fields>
+<button_replacements>Get Details</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_139</link>
+</app>
+<app>
+<appname>Bank Head Offices</appname>
+<description>This application gives you the address and the telephone number of the head office of any bank within Colombo along with the relevant bus rout numbers.
+Cost : 5.0
+by dileepa</description>
+<help>Type the name of the bank and press the Get Details button.</help>
+<appimg>0x7f020005</appimg>
+<fields>BANK $name</fields>
+<button_replacements>Get Details</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_155</link>
+</app>
+<app>
+<appname>Islamic Prayer Time</appname>
+<description>This application enables you to know the prayer time in Western Province and Eastern province.
+Cost : 5.0
+by Suhail Jamaldeen</description>
+<help>Press Western Province for Western Province Prayer times and Eastern Province for Eastern Province prayer times</help>
+<appimg>0x7f02003c</appimg>
+<fields>PRAYER W,PRAYER E</fields>
+<button_replacements>Western Province,Eastern Province</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_108</link>
+</app>
+<app>
+<appname>Lowa Puduma Thorathuru</appname>
+<description>Get world's amazing facts in singlish everyday via SMS.
+Cost : 30.0
+by S.Muthukuda</description>
+<help>Press Register to subscribe, and Unregister to unsubscribe. </help>
+<appimg>0x7f020046</appimg>
+<fields>REG LOWA,UNREG LOWA</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_264</link>
+</app>
+<app>
+<appname>Lagna Aya Waya</appname>
+<description>Get the 'Aya Vaya' of year for your 'Lagnaya' according to astrology. 
+Cost : 5.0
+by Anuja</description>
+<help>Type in your star sign and press 'Get Aya Waya'. The star signs are as follows: Mesha, Vurshaba, Mithuna, Kataka, Sinha, Kanya, Thula, Vurshchika, Danu, Makara, Kumba, Meena. 
+</help>
+<appimg>0x7f02003e</appimg>
+<fields>AV $sign</fields>
+<button_replacements>Get Aya Waya</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_120</link>
+</app>
+<app>
+<appname>Love Tips</appname>
+<description>Love advice,love tips,romantic ideas,love quote,dating advice,relationship advice and more about love.This Application is all about LOVE.
+Cost : 30.0
+by Amila Silva</description>
+<help>Press Register to subscribe, and Unregister to unsubscribe. Press the Help button for help, and the About button to get details on the developer.</help>
+<appimg>0x7f020006</appimg>
+<fields>REG LV,UNREG LV,LV HELP,LV ABT</fields>
+<button_replacements>Register,Unregister,Help,About</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_276</link>
+</app>
+<app>
+<appname>SMS Forum</appname>
+<description>This application is basically a forum which users can subscribe and register. Then users can post questions, answer questions, search for a term and view any past forum posts via sms.
+Cost : 30.0
+by Amila Ranathunga</description>
+<help>Press Register to register and Unregister to Unregister. Press Help to get help.
+</help>
+<appimg>0x7f02006c</appimg>
+<fields>REG FRM,UNREG FRM,FRM HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_280</link>
+</app>
+<app>
+<appname>Saamanya Danuma in Sinhala</appname>
+<description>Get a general knowledge tip everyday in Singlish.
+Cost : 30.0
+by T.M.W.P Tennakoon</description>
+<help>Press Register to register, and Unregister to unregister.For help, press Help. </help>
+<appimg>0x7f02005e</appimg>
+<fields>REG SD,UNREG SD,SD HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_267</link>
+</app>
+<app>
+<appname>Greetings</appname>
+<description>In the coming Christmas season, tell your parents, friends&amp; loved ones how much you care with Greetings. You can request touching and exciting Christmas greetings. (The greetings are currently available in English language.)
+Cost : 5.0
+by Dinitha</description>
+<help>Press the Get Greetings button to receive Christmas greeting messages.
+</help>
+<appimg>0x7f020031</appimg>
+<fields>GREETINGS</fields>
+<button_replacements>Get Greetings</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_117</link>
+</app>
+<app>
+<appname>Lassana Wenna Updates</appname>
+<description>Get tips on how to be beautiful to your phone in Singlish everyday.
+Cost : 30.0
+by Malaka Premasiri</description>
+<help>Press Register to register, and Unregister to unregister. </help>
+<appimg>0x7f02003f</appimg>
+<fields>REG LW,UNREG LW</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_271</link>
+</app>
+<app>
+<appname>English-Sinhala Dictionary</appname>
+<description>This application provides you with definitions for more than 50,000 English words. You can find the exact Sinhala meaning of any English word easily. Cost : 5.0
+by Tharaka</description>
+<help>Type the English word and press Send Word to get the Sinhala meaning.
+</help>
+<appimg>0x7f020023</appimg>
+<fields>DIC $word</fields>
+<button_replacements>Send Word</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_166</link>
+</app>
+<app>
+<appname>Express Your Heart </appname>
+<description>Want to wish &amp; impress your friends in DIFFERENT LANGUAGES.
+Cost : 5.0
+by Manoj Weerasekara</description>
+<help>Press the button corresponding to your request. Press Help for help.
+</help>
+<appimg>0x7f020027</appimg>
+<fields>HE ILU,HE GM,HE GN,HE HB,HE GL,HE MC,HE HELP</fields>
+<button_replacements>Love,Morning,Night,Birthday,Luck,Christmas,Help</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_296</link>
+</app>
+<app>
+<appname>Wish </appname>
+<description>This application sends the user with greetings for requested occasions. The messages are sent based on the request language i.e. Sinhala, English.
+Cost : 5.0
+by kalpap</description>
+<help>Press the button corresponding to your request and language. Press Help for help.
+</help>
+<appimg>0x7f020084</appimg>
+<fields>WI BD SI,WI BD EN,WI NY SI,WI NY EN</fields>
+<button_replacements>Birthday(Sinhala),Birthday(English),New Year(Sinhala),New Year(English)</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_183</link>
+</app>
+<app>
+<appname>Horoscope </appname>
+<description>This application gives the astrology readings of the year for all zodiac signs.
+Cost : 5.0
+by dushantha</description>
+<help>Type your zodiac sign and press the 'Get Reading' button. Zodiac signs can be defined as follows: Aries (Mesha), Taurus (Vusabha), Gemini (Mituna), Cancer (Kataka), Leo (Sinha), Virgo (Kanya), Libra (Tula), Scorpio (Vushvika), Sagittarius (Danu), Capricorn (Makara), Aquarius (Kumbha) or Pisces (Mina).
+</help>
+<appimg>0x7f020037</appimg>
+<fields>HOROSCOPE $sign</fields>
+<button_replacements>Get Reading</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_173</link>
+</app>
+<app>
+<appname>SMS-DER</appname>
+<description>This application gives the currency name of the country given by the user and the relevant exchange rate.
+Cost : 5.0
+by Charitha</description>
+<help>To get the exchange rate and currency name of a country type in the country name and press the Get Currency button.
+</help>
+<appimg>0x7f02006b</appimg>
+<fields>DER $country</fields>
+<button_replacements>Get Currency</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_116</link>
+</app>
+<app>
+<appname>Free Mobile Themes</appname>
+<description>FREE Download Mobile Themes.In this application user can get new mobile themes for their mobiles.
+Cost : 5.0
+by mithra</description>
+<help>Press the relevant category to get themes. Phone Category Nokia s60v5, Nokia N-Series, Nokia Series 60.
+</help>
+<appimg>0x7f020029</appimg>
+<fields>TH N,TH NN,TH NOKIA</fields>
+<button_replacements>Nokia s60v5,Nokia N-Series,Nokia Series 60</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_128</link>
+</app>
+<app>
+<appname>Bollywood Gossip in Sinhala</appname>
+<description>Get the latest &amp; hottest Bollywood gossip to you phone in singlish everyday via SMS.
+Cost : 30.0
+by Malaka Premasiri</description>
+<help>Press Register to register, and Unregister to unregister.For help, press Help. </help>
+<appimg>0x7f02000f</appimg>
+<fields>REG BOLY,UNREG BOLY,BOLY HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_273</link>
+</app>
+<app>
+<appname>English Grammar Tips</appname>
+<description>Get English grammar tips everyday and improve your knowledge on English grammar.
+Cost : 30.0
+by T.M.W.P Tennakoon</description>
+<help>Press Register to register, and Unregister to unregister.For help, press Help. </help>
+<appimg>0x7f020022</appimg>
+<fields>REG EG,UNREG EG,EG HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_269</link>
+</app>
+<app>
+<appname>Daily Horoscope</appname>
+<description>This application gives your true horoscope for your zodiac sign from one of the famous astrologist in Sri Lanka every day morning. 
+Cost : 30.0
+by Navin</description>
+<help>Press Register to register, Unregister to unregister.
+</help>
+<appimg>0x7f02001a</appimg>
+<fields>REG ASTRO,UNREG ASTRO</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_163</link>
+</app>
+<app>
+<appname>World's Amazing Facts</appname>
+<description>Get world's amazing facts in English everyday via SMS.
+Cost : 30.0
+by S.Muthukuda</description>
+<help>Press Register to register, and Unregister to unregister. </help>
+<appimg>0x7f020086</appimg>
+<fields>REG FACT,UNREG FACT</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_265</link>
+</app>
+<app>
+<appname>World's Amazing Facts</appname>
+<description>Get tips on how to be beautiful to your phone in English everyday.
+Cost : 30.0
+by Malaka Premasiri</description>
+<help>Press Register to register, and Unregister to unregister. Press Help for help.</help>
+<appimg>0x7f020007</appimg>
+<fields>REG BTIP,UNREG BTIP,BTIP HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_270</link>
+</app>
+<app>
+<appname>General Knowledge Facts</appname>
+<description>Get a general knowledge tip everyday in English.
+Cost : 30.0
+by T.M.W.P Tennakoon</description>
+<help>Press Register to register, and Unregister to unregister. Press Help for help.</help>
+<appimg>0x7f02002e</appimg>
+<fields>REG GK,UNREG GK,GK HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_268</link>
+</app>
+<app>
+<appname>Bollywood Gossip in English</appname>
+<description>Get the latest and hottest Bollywood gossip to you phone in English everyday via SMS.
+Cost : 30.0
+by Malaka Premasiri</description>
+<help>Press Register to register, and Unregister to unregister. Press Help for help.</help>
+<appimg>0x7f02000e</appimg>
+<fields>REG EBOLY,UNREG EBOLY,EBOLY HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_272</link>
+</app>
+<app>
+<appname>Hospitals Guider</appname>
+<description>To find out the government hospitals telephone numbers Cost : 5.0
+by shashi</description>
+<help>Type the name of the Hospital in the text field and press the button to send the message.</help>
+<appimg>0x7f020038</appimg>
+<fields>HOS $hospital</fields>
+<button_replacements>Request Number</button_replacements>
+<subscription>false</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_119</link>
+</app>
+<app>
+<appname>Metric Converter</appname>
+<description>This application can be used to convert values in metric units to imperial units and vice versa.
+Cost : 5.0
+by Roshan</description>
+<help>kg2lb=kg to pounds,lb2kg=pounds to kg,cm2ft=cm to ft,ft2cm=feet to cm,l2gal=liters to gallons,gal2l=gallons to liters. Type the value and pressthe relevant button for conversion. Press Help for help.
+</help>
+<appimg>0x7f02004f</appimg>
+<fields>MC 1 $value,MC 2 $value,MC 3 $value,MC 4 $value,MC 5 $value,MC 6 $value,MC HELP</fields>
+<button_replacements>kg2lb,lb2kg,cm2ft,ft2cm,l2gal,gal2l,Help</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_83</link>
+</app>
+<app>
+<appname>Mobile Software</appname>
+<description>Free Mobile Software application.Users can download mobile softwares from this application.
+Cost : 5.0
+by mithra</description>
+<help>Choose the relevant category of phone.Phone Category Nokia s60v5, Nokia N-Series, Nokia Series 60, iPhone
+</help>
+<appimg>0x7f020053</appimg>
+<fields>SOF N,SOF NN,SOF NOKIA,SOF I</fields>
+<button_replacements>Nokia s60v5,Nokia N-Series,Nokia Series 60,iPhone</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_126</link>
+</app>
+<app>
+<appname>Primary Horoscope</appname>
+<description>Input your birthday and It will show your and your life partner qualities according to the historical numerology methods.
+Cost : 5.0
+by T.Tharindu madushanka peiris</description>
+<help>Type your birthday and press Get Qualities to run the app.Press Help for help.
+</help>
+<appimg>0x7f02005b</appimg>
+<fields>LOVE123 $birthday,LOVE HELP</fields>
+<button_replacements>Get Qualities,Help</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_297</link>
+</app>
+<app>
+<appname>Gold FM</appname>
+<description>Subscribe to the GOLD FM news service. Rs.30 per month, 1st 15 days FREE
+Cost : 1.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f02002f</appimg>
+<fields>GOLD,STOP GOLD</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_36</link>
+</app>
+<app>
+<appname>Hiru FM News</appname>
+<description>Subscribe to the HIRU FM news service. Rs.30 per month, 1st 15 days FREE
+Cost : 30.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f020035</appimg>
+<fields>HIRU,STOP HIRU</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_35</link>
+</app>
+<app>
+<appname>Ada Derana</appname>
+<description>Subscribe to the Ada Derana news service. Rs.30 per month, 1st 15 days FREE 
+Cost : 30.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f020000</appimg>
+<fields>AD,STOP AD</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_34</link>
+</app>
+<app>
+<appname>Virakesari</appname>
+<description>Subscribe to the Virakesari news service. Rs.30 per month, 1st 15 days FREE,
+Cost : 1.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f020080</appimg>
+<fields>REG VK,STOP VK</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_48</link>
+</app>
+<app>
+<appname>MasterMind</appname>
+<description>SMS Based Mastermind Challenge game where players can enjoy playing single player and Two Player version of the game with another player.
+Cost : 5.0
+by hSenidMobile</description>
+<help>To register press Play, to start game press Start; For Help press Help</help>
+<appimg>0x7f02004e</appimg>
+<fields>MM PLAY,MM HELP,MM START</fields>
+<button_replacements>Play,Help,Start</button_replacements>
+<subscription>false</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>News in Sinhala</appname>
+<description>Subscribe to the Sinhala news service from Sanit JNW. Rs.30 per month, 1st 15 days FREE
+Cost : 1.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f020057</appimg>
+<fields>REG SIN,STOP SIN</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_53</link>
+</app>
+<app>
+<appname>Beautiful Life Quotes</appname>
+<description>Beautiful Life Quotes is a collection of inspirational quotes on topics including success, life, leadership, love, motivation and more. Once you register you will get a beautiful quotes every day morning.
+Cost : 30.0
+by Dilan</description>
+<help>Press Register to subscribe.</help>
+<appimg>0x7f020006</appimg>
+<fields>REG QUOTES</fields>
+<button_replacements>Register</button_replacements>
+<subscription>true</subscription>
+<category>Information</category>
+<link>http://apps.appzone.lk/#app_257</link>
+</app>
+<app>
+<appname>Vimasuma</appname>
+<description>Subscribe to the news service in Sinahala from Vimasuma. Rs.30 per month, 1st 15 days FREE
+Cost : 1.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f02007f</appimg>
+<fields>REG VIM,STOP VIM</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_51</link>
+</app>
+<app>
+<appname>LBO News</appname>
+<description>Subscribe to the news service from LBO. Rs.30 per month, 1st 15 days FREE
+Cost : 1.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f020040</appimg>
+<fields>REG LBO,STOP LBO</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_52</link>
+</app>
+<app>
+<appname>Mobile Fonts</appname>
+<description>FREE Download Mobile Fonts.User can get new mobile fonts by this application.
+Cost : 5.0
+by mithra</description>
+<help>Press the Get Fonts button to get fonts.
+</help>
+<appimg>0x7f020052</appimg>
+<fields>FONT</fields>
+<button_replacements>Get Fonts</button_replacements>
+<subscription>false</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_127</link>
+</app>
+<app>
+<appname>Sooriyan FM</appname>
+<description>Subscribe to the Sooriyan FM news service. Rs.30 per month, 1st 15 days FREE
+Cost : 1.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f020071</appimg>
+<fields>REG SOORIYAN,STOP SOORIYAN</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_49</link>
+</app>
+<app>
+<appname>Sadaham Sithuvili</appname>
+<description>Receive daily Dhamma Verses on your mobile.Try this service free for first 15 days.Just Rs.1/= per day after that.
+Cost : 30.0
+by Roshan</description>
+<help>Press Register to register and Help for help.Type your question and press Ask to ask a question.
+</help>
+<appimg>0x7f02005f</appimg>
+<fields>REG DP,DP HELP,DP QUIZ $question</fields>
+<button_replacements>Register,Help,Ask</button_replacements>
+<subscription>true</subscription>
+<category>Other</category>
+<link>http://apps.appzone.lk/#app_288</link>
+</app>
+<app>
+<appname>JNW News</appname>
+<description>Subscribe to the news service from Sanit JNW. Rs.30 per month, 1st 15 days FREE
+Cost : 1.0
+by Etisalat</description>
+<help> To subscribe press the Register button, To deregister press the Unregister button.</help>
+<appimg>0x7f02003d</appimg>
+<fields>REG NEWS,STOP NEWS</fields>
+<button_replacements>Register,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>News</category>
+<link>http://apps.appzone.lk/#app_50</link>
+</app>
+<app>
+<appname>What Birthday tells about you</appname>
+<description>Send your birthday and know what your birthday tells about you.
+ Cost : 5.0
+ by Thulasya</description>
+<help>Type your birthday as YYYY MM DD and press send button </help>
+<appimg>0x7f020082</appimg>
+<fields>WBD $dob</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Valentina</appname>
+<description>Do you want him/her to be your valentine? but too nervous to ask? Get help from Valentina and clear all your doubts this Valentines! 
+ Cost : 5.0
+ by madreekn</description>
+<help>Press Request button to get help from Valentina </help>
+<appimg>0x7f02007e</appimg>
+<fields>VALEN</fields>
+<button_replacements>Request</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>SMS Paradise </appname>
+<description>This application sends you the best messages which you can send to your loved ones. In SMS Paradise you get many SMS categories such as love quotes, fun quotes, new year wishes,friendship quotes and birthday wishes. You can request for any category by sending a SMS.
+Cost : 5.0
+ by Mahesh</description>
+<help>For love quotes press Love button.
+For fun quotes press Fun button.
+For new year wishes quotes press New year button.
+For friendship quotes press Friendship button.
+For birthday wishes quotes press Birthday button.</help>
+<appimg>0x7f02006e</appimg>
+<fields>MP LV,MP FUN,MP NY,MP FR,MP BD</fields>
+<button_replacements>Love,Fun,NewYear,Friendship,Birthday</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>SMS Mania</appname>
+<description>SMS Mania is a SMS pool. Its growing day by day. You can request the message category that you want to receive. 
+ Available SMS categories are FUN(Fun messages), BDAY(Birth day messages), COOL (Cool messages), LOVE(Love messages), GM(Good morning messages), GN(Good night messages), FRND(Messages for Friends).Cost : 5.0
+ by Kumudu</description>
+<help>Type the category name and press the send button</help>
+<appimg>0x7f02006d</appimg>
+<fields>SMS $category</fields>
+<button_replacements>Send</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Tongue Twisters</appname>
+<description>This application contains a wide collection of tongue twisters which the user can get. 
+ Cost : 5.0
+ by Upaniw</description>
+<help>Press Request button to get Tongue Twisters and Help button for help </help>
+<appimg>0x7f02007a</appimg>
+<fields>TT,TT HELP</fields>
+<button_replacements>Request,Help</button_replacements>
+<subscription>false</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Teen Alerts</appname>
+<description>This provides Fun talks, Coolest gadgets, Hit songs download, Creditcard offers, Hollywood/Bollywood Gossips, sports tournaments, New cinema, Love SMS and lot more. 
+ Cost : 30.0
+ by Sunari</description>
+<help>To register press Register button, to unregister Press Unregister button and press Help button for help</help>
+<appimg>0x7f020078</appimg>
+<fields>REG TEEN,UNREG TEEN,TENN HELP</fields>
+<button_replacements>Register,Unregister,Help</button_replacements>
+<subscription>true</subscription>
+<category>Fun</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Guess Jumble Word</appname>
+<description>A jumbled word is send to the client and the client has to guess the word reply it.
+Cost : 30.0
+by asankan</description>
+<help>To register type press Register To unregister type Unregister To join type your nickname in the text field and press Join To start press Start To check score press Score To get the rank press Rank</help>
+<appimg>0x7f020033</appimg>
+<fields>REG JMBL,UNREG JMBL,JMBL JOIN $nickname,JMBL STRT,JMBL SCOR,JMBL RANK</fields>
+<button_replacements>Register,Unregister,Join,Start,Score,Rank</button_replacements>
+<subscription>true</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>SMSSpeed</appname>
+<description>SMS-Speed is a SMS based competition, where users sent a word to type and are evaluated based on the typing speed. 
+Cost : 5.0
+by hSenidMobile</description>
+<help>To register press Register,Help menu press Help.</help>
+<appimg>0x7f020070</appimg>
+<fields>SP PLAY,SP HELP</fields>
+<button_replacements>Register,Help</button_replacements>
+<subscription>true</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Spell King</appname>
+<description>SMS based game where users can guess the correct word for a given jumble word. 
+Cost : 5.0
+by Duleepa</description>
+<help>To use the application press the Play button, users can get help by pressing the Help button.</help>
+<appimg>0x7f020072</appimg>
+<fields>SPELL,SPELL HELP</fields>
+<button_replacements>Play,Help</button_replacements>
+<subscription>false</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+<app>
+<appname>Spell Master</appname>
+<description>Application to play Spelling games at nine levels from complete beginner to most advanced.Words are given with their pronunciation to complete the missing letters.Helps to improve English spelling skills.
+ Cost : 30.0 
+by priyantha</description>
+<help>To Register press the Register button.To get Help press the Help button.To set Level and Play type a level from 1-9 and press the Play button.To Quit and view Stats type press the Quit button.To Un-Register press the Unregister button.</help>
+<appimg>0x7f020073</appimg>
+<fields>REG SM,SM,SM $level,SM Q,UNREG SM</fields>
+<button_replacements>Register,Help,Start Level,Quit,Unregister</button_replacements>
+<subscription>true</subscription>
+<category>Games</category>
+<link>http://apps.appzone.lk/#app_97</link>
+</app>
+</xml>
